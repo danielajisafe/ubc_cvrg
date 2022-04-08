@@ -109,3 +109,13 @@
   education1: Machine Learning
   education2: Computer Vision
   
+  
+  - name: Daniel Ajisafe
+  photo: daniel_ajisafe.jpg
+  info: Masters Student
+  email: dajisafe@cs.ubc.ca
+  webpage: https://danielajisafe.github.io/
+  number_educ: 2
+  education1: Computer Vision
+  education2: 3D reconstruction
+  
